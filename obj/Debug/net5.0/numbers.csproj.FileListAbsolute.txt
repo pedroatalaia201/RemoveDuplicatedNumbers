@@ -1,0 +1,16 @@
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers.deps.json
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers.runtimeconfig.json
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers.runtimeconfig.dev.json
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers.dll
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/ref/numbers.dll
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/bin/Debug/net5.0/numbers.pdb
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.csproj.AssemblyReference.cache
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.AssemblyInfoInputs.cache
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.AssemblyInfo.cs
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.csproj.CoreCompileInputs.cache
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.dll
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/ref/numbers.dll
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.pdb
+/mnt/c/Pedro/avulsoC#/remove_duplicates_numbers/numbers/obj/Debug/net5.0/numbers.genruntimeconfig.cache
