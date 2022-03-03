@@ -8,7 +8,6 @@ namespace numbers
         static void Main(string[] args)
         {
             int[] array = new int[] {1, 2, 2, 2, 3, 4, 5, 5, 5, 6, 4, 4, 7, 6, 7, 8};
-            //object[] objs = new object[] {1, "a", 2, "b"};
 
             List<int> noRepeted = new List<int>();
 
